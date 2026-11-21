@@ -9,6 +9,6 @@
   "version": "2.0.0",
   "source_repo": "https://github.com/D3ATHLY/blackbox",
   "artifact_url": "https://github.com/D3ATHLY/blackbox/releases/download/2.0.0/update.zip",
-  "sha256": "<64-lowercase-hex-chars>",
+  "sha256": "c1b1178980eaed13e7206ec51d76763dc0c77a23c4ece94806dde3b776a64bef",
   "icon_url": "https://raw.githubusercontent.com/D3ATHLY/blackbox/refs/heads/main/assets/blackbox-logo.png"
 }
