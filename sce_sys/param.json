@@ -1,0 +1,14 @@
+{
+  "titleid": "PPSA01453",
+  "name": "BlackBox",
+  "kind": "app",
+  "category": "utilities",
+  "description": "Homebrew storefront and download manager for PS5 consoles.",
+  "license": "GPL-3.0-or-later",
+  "author": "D3ATHLY",
+  "version": "2.0.0",
+  "source_repo": "https://github.com/D3ATHLY/blackbox",
+  "artifact_url": "https://github.com/D3ATHLY/blackbox/releases/download/2.0.0/update.zip",
+  "sha256": "<64-lowercase-hex-chars>",
+  "icon_url": "https://raw.githubusercontent.com/D3ATHLY/blackbox/refs/heads/main/assets/blackbox-logo.png"
+}
